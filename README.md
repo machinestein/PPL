@@ -1,4 +1,4 @@
-# Rethinking Optimal Transport in Offline Reinforcement Learning
+# [Rethinking Optimal Transport in Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/df54302388bbc145aacaa1a54a4a5933-Abstract-Conference.html)
 
 This repository contains the official implementation of the **NeurIPS 2024** paper:  
 **Rethinking Optimal Transport in Offline Reinforcement Learning**  
